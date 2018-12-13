@@ -1,3 +1,3 @@
 window.onload = function() {
-  document.getElementById('main-content').innerHTML = '欢迎来到秋硕教育这个大家庭！'
+  document.getElementById('main-content').innerHTML = '娆㈣繋鏉ュ埌绉嬬鏁欒偛杩欎釜澶у搴紒'
 }
